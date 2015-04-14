@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecorePrototype", "SitecorePrototype\SitecorePrototype.csproj", "{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70859F53-1EB3-4A6B-9C53-FC20A9AE05B2}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitattributes = ..\.gitattributes
+		..\.gitignore = ..\.gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
