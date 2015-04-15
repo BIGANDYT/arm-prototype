@@ -1,9 +1,7 @@
-﻿@using Sitecore.Mvc
-@using Sitecore.Mvc.Presentation
-@model RenderingModel
+﻿@model RenderingModel
 @{
 
 }
 <div>
-    @Html.Sitecore().Field("Name")
+    @((object)Html.Sitecore().Field("Name"))
 </div>

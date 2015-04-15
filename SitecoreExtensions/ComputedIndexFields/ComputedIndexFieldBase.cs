@@ -2,6 +2,7 @@
 {
     using System;
     using System.Linq;
+
     using Sitecore.Configuration;
     using Sitecore.ContentSearch;
     using Sitecore.ContentSearch.ComputedFields;

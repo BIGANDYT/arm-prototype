@@ -4,7 +4,9 @@
     using System.Collections.Generic;
     using System.Web.Http;
     using System.Web.Http.Description;
+
     using SitecoreModels.Products;
+
     using SitecoreRepository;
 
     [AllowAnonymous]

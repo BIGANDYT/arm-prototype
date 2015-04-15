@@ -1,20 +1,18 @@
-﻿<!DOCTYPE html>
-@using Sitecore.Mvc
-@using Sitecore.Mvc.Analytics.Extensions
-@using Sitecore.Mvc.Presentation
+﻿@using Sitecore.Mvc.Analytics.Extensions
+<!DOCTYPE html>
 @model RenderingModel
 @{
   Layout = null;
 }
 <html>
 <head>
-  <title>@Html.Sitecore().Field("title", new { DisableWebEdit = true })</title>
-  @Html.Sitecore().VisitorIdentification()
+  <title>@((object)Html.Sitecore().Field("title", new { DisableWebEdit = true }))</title>
+    @VisitorExtensions.VisitorIdentification(Html.Sitecore())
 </head>
   <body>
-    <h1>@Html.Sitecore().Field("title")</h1>
+    <h1>@((object)Html.Sitecore().Field("title"))</h1>
     <div>
-      @Html.Sitecore().Placeholder("main")
+        @((object)Html.Sitecore().Placeholder("main"))
     </div>
   </body>
 </html>
