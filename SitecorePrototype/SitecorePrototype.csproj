@@ -55,11 +55,11 @@
     </Reference>
     <Reference Include="Sitecore.Mvc">
       <HintPath>..\lib\Sitecore.Mvc.dll</HintPath>
-      <Private>False</Private>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.Mvc.Analytics">
       <HintPath>..\lib\Sitecore.Mvc.Analytics.dll</HintPath>
-      <Private>False</Private>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

@@ -1,25 +1,18 @@
 ----item----
 version: 1
-id: {E6053481-44AF-44A1-8D1B-013648F2497F}
+id: {037CD5AA-FDB5-4DF8-AA9A-85A8A73B7998}
 database: master
-path: /sitecore/layout/Renderings/ARM/Carousel
-parent: {36FF5898-48AE-4240-8B12-B025958E88D2}
-name: Carousel
+path: /sitecore/templates/ARM/Carousel/Data
+parent: {5E5FA71D-28E3-436C-B651-284021677B4D}
+name: Data
 master: {00000000-0000-0000-0000-000000000000}
-template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
-templatekey: View rendering
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
 
-----field----
-field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
-name: Path
-key: path
-content-length: 40
-
-/Views/Components/Global/Carousel.cshtml
 ----version----
 language: en
 version: 1
-revision: bedbf3b6-88df-41e7-97de-76a600211b5c
+revision: 99614820-47b4-4891-b6e4-c7eb5f129846
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,21 +20,28 @@ name: __Created
 key: __created
 content-length: 16
 
-20150414T142616Z
+20150414T152819Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-bedbf3b6-88df-41e7-97de-76a600211b5c
+99614820-47b4-4891-b6e4-c7eb5f129846
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150414T152221:635646217410022854Z
+20150414T152948:635646221881398657Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
