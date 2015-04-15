@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {E43F375A-24BB-49AD-9E19-16DFDAA96825}
+database: master
+path: /sitecore/templates/ARM/BaseTemplates/Content/_BasePage/__Standard Values
+parent: {99A1374E-2369-4732-BDF7-4BFC8CF6F0FA}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {99A1374E-2369-4732-BDF7-4BFC8CF6F0FA}
+templatekey: _BasePage
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{99A1374E-2369-4732-BDF7-4BFC8CF6F0FA}
+----version----
+language: en
+version: 1
+revision: e9c7f568-f082-4c9d-8a9f-894a692a2b99
+
+----field----
+field: {8A826BE2-C878-49DA-A0F7-32DB6718E2FB}
+name: __FallbackFields
+key: __fallbackfields
+content-length: 1688
+
+            <fallback>                 <setting target="{C30A013F-3CC8-4961-9837-1C483277084A}" source="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" description="Title -> Display name" />                 <setting target="{CA0479CE-0BFE-4522-83DE-BA688B380A78}" source="{C30A013F-3CC8-4961-9837-1C483277084A}|{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" description="Browser title -> Title -> Display name" />                 <setting target="{1B483E91-D8C4-4D19-BA03-462074B55936}" source="{C30A013F-3CC8-4961-9837-1C483277084A}|{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" description="Short Title -> Title -> Display name" />                 <setting target="{0EE2F208-1FEE-42FC-8051-6696D49A92BF}" source="{C30A013F-3CC8-4961-9837-1C483277084A}|{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" description="Open Graph Title -> Title -> Display name" />                 <setting target="{AC3FD4DB-8266-476D-9635-67814D91E901}" source="{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}" description="Summary -> Body" enableEllipsis="true" clipAt="200" />                 <setting target="{11F41661-E5FE-44E7-B8DA-7CFF2D39B4B2}" source="{9492E0BB-9DF9-46E7-8188-EC795C4ADE44}" description="Open Graph Image -> Thumbnail" />                 <setting target="{A12D5346-87EE-484D-83C5-F1E8E1B99666}" source="{AC3FD4DB-8266-476D-9635-67814D91E901}|{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}" description="Summary -> Body" enableEllipsis="true" clipAt="200" />                       <setting target="{BB7A38C0-323C-4F81-8EB9-288ABF7C4638}" source="{AC3FD4DB-8266-476D-9635-67814D91E901}|{D74F396D-5C5E-4916-BD0A-BFD58B6B1967}" description="Open Graph Image -> Thumbnail" enableEllipsis="true" clipAt="200" />             </fallback>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140403T080523Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e9c7f568-f082-4c9d-8a9f-894a692a2b99
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150415T102009:635646900091295246Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

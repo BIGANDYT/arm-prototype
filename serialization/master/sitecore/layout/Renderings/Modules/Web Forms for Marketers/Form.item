@@ -1,0 +1,673 @@
+----item----
+version: 1
+id: {6D3B4E7D-FEF8-4110-804A-B56605688830}
+database: master
+path: /sitecore/layout/Renderings/Modules/Web Forms for Marketers/Form
+parent: {78E9CEDE-760C-44BC-BBB8-ED1DD0101276}
+name: Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {1DDE3F02-0BD7-4779-867A-DC578ADF91EA}
+templatekey: Webcontrol
+
+----field----
+field: {9003574A-FB95-4F3C-B17C-33893DAD35A9}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{2816D841-7573-4080-9418-80BAC327A539}
+----field----
+field: {C2FD8EB3-41B2-4CD9-816B-C8F515980C7A}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+0
+----field----
+field: {CA07D29A-01F7-44E7-A590-6933BCB6B919}
+name: Customize Page
+key: customize page
+content-length: 0
+
+
+----field----
+field: {1F424EB0-6138-4BC4-93B0-BD45EC6B1CB2}
+name: Namespace
+key: namespace
+content-length: 29
+
+Sitecore.Form.Core.Renderings
+----field----
+field: {B8979E80-7623-4B3A-BFD2-3F3F05883D58}
+name: Tag
+key: tag
+content-length: 10
+
+FormRender
+----field----
+field: {E2ABDEC6-83A6-4B68-97D1-B3CD79F10A8E}
+name: TagPrefix
+key: tagprefix
+content-length: 0
+
+
+----field----
+field: {C50B1F5B-26DA-476A-AAC6-9B734975971C}
+name: Assembly
+key: assembly
+content-length: 19
+
+Sitecore.Forms.Core
+----field----
+field: {6D6A0DA0-F3EA-4799-9CAE-CE748E0B6A24}
+name: Placeholder
+key: placeholder
+content-length: 0
+
+
+----field----
+field: {A116F3A4-0D3A-4DD9-BD7C-0F37470BE5DC}
+name: Parameters
+key: parameters
+content-length: 94
+
+FormTemplate=/sitecore modules/web/Web Forms for Marketers/Control/SitecoreSimpleFormAscx.ascx
+----field----
+field: {B6ADCF38-9BC1-48DD-8C0C-4C239940F888}
+name: Login rendering
+key: login rendering
+content-length: 0
+
+
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 22
+
+/sitecore/content/Home
+----field----
+field: {A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}
+name: Page Editor Buttons
+key: page editor buttons
+content-length: 38
+
+{F53C5936-D9A8-4704-8859-6AD97D409541}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 0
+
+
+----field----
+field: {D3AE7222-425D-4B77-95D8-EE33AC2B6730}
+name: __Context Menu
+key: __context menu
+content-length: 0
+
+
+----field----
+field: {D85DB4EC-FF89-4F9C-9E7C-A9E0654797FC}
+name: __Editor
+key: __editor
+content-length: 0
+
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 0
+
+
+----field----
+field: {39C4902E-9960-4469-AEEF-E878E9C8218F}
+name: __Hidden
+key: __hidden
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 32
+
+Control/32x32/progress_bar_h.png
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 0
+
+
+----field----
+field: {0C894AAB-962B-4A84-B923-CB24B05E60D2}
+name: __Ribbon
+key: __ribbon
+content-length: 0
+
+
+----field----
+field: {079AFCFE-8ACA-4863-BDA7-07893541E2F5}
+name: __Skin
+key: __skin
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 0
+
+
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 0
+
+
+----field----
+field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
+name: __Subitems Sorting
+key: __subitems sorting
+content-length: 0
+
+
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 156
+
+<image mediaid="{906A4E09-A8F8-4648-825D-EC1FE2516355}" mediapath="/Web Forms for Marketers/Web Form" src="~/media/Web Forms for Marketers/Web Form.ashx" />
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 0
+
+
+----field----
+field: {83798D75-DF25-4C28-9327-E8BAC2B75292}
+name: __Insert Rules
+key: __insert rules
+content-length: 0
+
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 0
+
+
+----field----
+field: {B03569B1-1534-43F2-8C83-BD064B7D782C}
+name: __Renderers
+key: __renderers
+content-length: 0
+
+
+----field----
+field: {86FE4F77-4D9A-4EC3-9ED9-263D03BD1965}
+name: __Publish
+key: __publish
+content-length: 0
+
+
+----field----
+field: {7EAD6FD6-6CF1-4ACA-AC6B-B200E7BAFE88}
+name: __Unpublish
+key: __unpublish
+content-length: 0
+
+
+----field----
+field: {74484BDF-7C86-463C-B49F-7B73B9AFC965}
+name: __Publishing groups
+key: __publishing groups
+content-length: 0
+
+
+----field----
+field: {9135200A-5626-4DD8-AB9D-D665B8C11748}
+name: __Never publish
+key: __never publish
+content-length: 0
+
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 46
+
+ar|Everyone|pe|!*|+item:read|pd|!*|+item:read|
+----field----
+field: {56C15C6D-FD5A-40CA-BB37-64CEEC6A9BD5}
+name: __Archive date
+key: __archive date
+content-length: 0
+
+
+----field----
+field: {C2F5B2B5-71C1-431E-BF7F-DBDC1E5A2F83}
+name: __Quick Action Bar Validation Rules
+key: __quick action bar validation rules
+content-length: 0
+
+
+----field----
+field: {57CBCA4C-8C94-446C-B8CA-7D8DC54F4285}
+name: __Validate Button Validation Rules
+key: __validate button validation rules
+content-length: 0
+
+
+----field----
+field: {B7E5B151-B145-4CED-85C5-FBDB566DFA4D}
+name: __Validator Bar Validation Rules
+key: __validator bar validation rules
+content-length: 0
+
+
+----field----
+field: {86B52EEF-078E-4D9E-80BF-888287070E6C}
+name: __Workflow Validation Rules
+key: __workflow validation rules
+content-length: 0
+
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 0
+
+
+----version----
+language: da
+version: 1
+revision: 95caa98b-b898-44f4-9186-0c2f3773c9d6
+
+----field----
+field: {4A7F5F08-125D-47A4-B849-9EC366D51928}
+name: Description
+key: description
+content-length: 211
+
+<div>
+  <b>Formularfortolker</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<div>
+Formularfortolkeren renderer den valgte formular.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Formular
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150415T114357:635646950375433872Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+95caa98b-b898-44f4-9186-0c2f3773c9d6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150415T114357:635646950376453922Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: b1ac7bd1-8604-4b4a-b498-e7f373dc219f
+
+----field----
+field: {4A7F5F08-125D-47A4-B849-9EC366D51928}
+name: Description
+key: description
+content-length: 227
+
+<div>
+  <b>Formularinterpretierer</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<div>
+Der Formularinterpretierer rendert das ausgewählte Formular.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Formular
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150415T114714:635646952342727625Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b1ac7bd1-8604-4b4a-b498-e7f373dc219f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150415T114714:635646952343167653Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 7f883236-b72c-45bc-9a01-047d594884da
+
+----field----
+field: {4A7F5F08-125D-47A4-B849-9EC366D51928}
+name: Description
+key: description
+content-length: 214
+
+
+		<div>
+  <b>Form Interpreter</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<div>
+The form interpreter renders the selected form.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+Form
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 0
+
+
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 0
+
+
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 0
+
+
+----field----
+field: {4C346442-E859-4EFD-89B2-44AEDF467D21}
+name: __Valid to
+key: __valid to
+content-length: 0
+
+
+----field----
+field: {B8F42732-9CB8-478D-AE95-07E25345FB0F}
+name: __Hide version
+key: __hide version
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20080418T103500
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7f883236-b72c-45bc-9a01-047d594884da
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20131113T150829:635199521091009534
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {ABE5D54C-59D7-41E6-8D3F-C1A3E4EC9B9E}
+name: __Reminder date
+key: __reminder date
+content-length: 0
+
+
+----field----
+field: {2ED9C4D0-9EFF-490D-A40A-B5D856499C40}
+name: __Reminder recipients
+key: __reminder recipients
+content-length: 0
+
+
+----field----
+field: {BB6C8540-118E-4C49-9157-830576D7345A}
+name: __Reminder text
+key: __reminder text
+content-length: 0
+
+
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 0
+
+
+----version----
+language: ja-JP
+version: 1
+revision: acb738d4-3d20-4993-87e7-87bceca30cef
+
+----field----
+field: {4A7F5F08-125D-47A4-B849-9EC366D51928}
+name: Description
+key: description
+content-length: 188
+
+<div>
+  <b>フォーム インタプリタ</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<div>
+フォーム インタプリタは選択されたフォームをレンダリングします。
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+フォーム
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150415T114943:635646953837952125Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+acb738d4-3d20-4993-87e7-87bceca30cef
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150415T114943:635646953838862186Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

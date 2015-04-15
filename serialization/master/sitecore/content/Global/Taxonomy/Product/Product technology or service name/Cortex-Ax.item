@@ -1,33 +1,40 @@
 ----item----
 version: 1
-id: {5E5FA71D-28E3-436C-B651-284021677B4D}
+id: {E918298E-2062-4C5F-B9F9-98B00A3F0BE8}
 database: master
-path: /sitecore/templates/ARM/Carousel
-parent: {2889FD62-C7E1-4FE1-BCBF-D3F6D0E8BEC6}
-name: Carousel
+path: /sitecore/content/Global/Taxonomy/Product/Product technology or service name/Cortex-Ax
+parent: {5E347DC8-38E5-43E0-96D8-BEC1AC27593E}
+name: Cortex-Ax
 master: {00000000-0000-0000-0000-000000000000}
-template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
-templatekey: Template
+template: {1B6F06DD-D34B-4F76-8FF5-1B4120EB1612}
+templatekey: SelectOption
 
 ----field----
-field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
-name: __Base template
-key: __base template
-content-length: 38
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
 
-{1930BBEB-7805-471A-A3BE-4858AC7CF696}
+400
 ----version----
 language: en
 version: 1
-revision: feef9097-ae7d-4099-bed3-321716a51a73
+revision: 4d7d585a-fe36-4caf-91cb-84991959c1c8
 
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20150414T152555Z
+20150415T142554Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-feef9097-ae7d-4099-bed3-321716a51a73
+4d7d585a-fe36-4caf-91cb-84991959c1c8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150414T152555:635646219558430446Z
+20150415T142556:635647047565392245Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

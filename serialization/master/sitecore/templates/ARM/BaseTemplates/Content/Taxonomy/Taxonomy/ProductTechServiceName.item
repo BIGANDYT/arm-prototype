@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {37E2FCBD-9F77-4583-BD05-68662F4A81BC}
+database: master
+path: /sitecore/templates/ARM/BaseTemplates/Content/Taxonomy/Taxonomy/ProductTechServiceName
+parent: {6F8EA2DB-24C0-4D0F-A286-82F8BCFB882C}
+name: ProductTechServiceName
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 8
+
+Droplink
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 98
+
+datasource={5E347DC8-38E5-43E0-96D8-BEC1AC27593E}&excludetemplatesforselection=SelectOptionsFolder
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: 24de7a90-edd9-42f4-a65a-5a29e87567f4
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150415T143456Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+24de7a90-edd9-42f4-a65a-5a29e87567f4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150415T143904:635647055442431992Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreRepository", "SitecoreRepository\SitecoreRepository.csproj", "{3800A6ED-0C29-4D7D-8EC9-18D8DE56CCCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreModels", "Models\SitecoreModels.csproj", "{75625309-E5C4-415F-A0B9-C90F025110DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreExtensions", "SitecoreExtensions\SitecoreExtensions.csproj", "{2BAFBE2F-2E9A-4046-933E-9AD594FE55C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D64D40F2-C64B-4446-9135-1CAFF9E1FEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3800A6ED-0C29-4D7D-8EC9-18D8DE56CCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3800A6ED-0C29-4D7D-8EC9-18D8DE56CCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3800A6ED-0C29-4D7D-8EC9-18D8DE56CCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3800A6ED-0C29-4D7D-8EC9-18D8DE56CCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75625309-E5C4-415F-A0B9-C90F025110DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75625309-E5C4-415F-A0B9-C90F025110DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75625309-E5C4-415F-A0B9-C90F025110DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75625309-E5C4-415F-A0B9-C90F025110DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAFBE2F-2E9A-4046-933E-9AD594FE55C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAFBE2F-2E9A-4046-933E-9AD594FE55C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAFBE2F-2E9A-4046-933E-9AD594FE55C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAFBE2F-2E9A-4046-933E-9AD594FE55C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
