@@ -2,9 +2,7 @@
 {
     using System.Collections.Generic;
     using Sitecore;
-
     using SitecoreExtensions.Helpers;
-
     using SitecoreModels.Products;
 
     public class ProductRepository

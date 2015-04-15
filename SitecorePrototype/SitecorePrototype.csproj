@@ -124,11 +124,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="App_Config\Include\ManualCoreIndexing.config" />
-    <Content Include="App_Config\Include\PerformanceTweaks.config" />
+    <Content Include="App_Config\Include\zArm\ManualCoreIndexing.config" />
+    <Content Include="App_Config\Include\zArm\PerformanceTweaks.config" />
     <Content Include="App_Config\Include\Serialization.config" />
-    <Content Include="App_Config\Include\Sites.config" />
-    <Content Include="App_Config\Include\SitecoreWebApi.config" />
+    <Content Include="App_Config\Include\zArm\Sites.config" />
+    <Content Include="App_Config\Include\zArm\SitecoreWebApi.config" />
+    <Content Include="App_Config\Include\zArm\ContentSearch.config" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <Content Include="Views\Shared\Default.cshtml" />
     <Content Include="Views\Components\Global\Carousel.cshtml" />

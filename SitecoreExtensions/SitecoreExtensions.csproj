@@ -49,6 +49,10 @@
     <Reference Include="System.Web" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComputedIndexFields\ComputedIndexFieldBase.cs" />
+    <Compile Include="ComputedIndexFields\IsIndexableItemOptions.cs" />
+    <Compile Include="ComputedIndexFields\ItemIDs.cs" />
+    <Compile Include="ComputedIndexFields\TaxonomyFacet.cs" />
     <Compile Include="Helpers\MappingHelper.cs" />
     <Compile Include="Helpers\SiteHelper.cs" />
     <Compile Include="MyContext.cs" />
@@ -63,9 +67,6 @@
       <Project>{75625309-E5C4-415F-A0B9-C90F025110DE}</Project>
       <Name>SitecoreModels</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
