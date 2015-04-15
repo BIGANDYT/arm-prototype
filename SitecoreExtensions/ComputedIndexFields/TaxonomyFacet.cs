@@ -11,10 +11,7 @@
     {
         public override object ComputeFieldValue(IIndexable indexable)
         {
-            if (!this.IsIndexableItem(indexable, new IsIndexableItemOptions
-            {
-                IncludeRootIDs = new List<ID> { ItemIDs.ContentRoot }
-            }))
+            if (!this.IsIndexableItem(indexable))
             {
                 return null;
             }

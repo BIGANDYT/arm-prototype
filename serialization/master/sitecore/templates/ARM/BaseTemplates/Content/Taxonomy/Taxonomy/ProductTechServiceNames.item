@@ -2,9 +2,9 @@
 version: 1
 id: {37E2FCBD-9F77-4583-BD05-68662F4A81BC}
 database: master
-path: /sitecore/templates/ARM/BaseTemplates/Content/Taxonomy/Taxonomy/ProductTechServiceName
+path: /sitecore/templates/ARM/BaseTemplates/Content/Taxonomy/Taxonomy/ProductTechServiceNames
 parent: {6F8EA2DB-24C0-4D0F-A286-82F8BCFB882C}
-name: ProductTechServiceName
+name: ProductTechServiceNames
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
@@ -33,15 +33,15 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 09906ad6-3395-4861-a685-098db1d11e5c
+revision: 95c771be-73dd-44fe-b721-c8d5c8241115
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
 name: Title
 key: title
-content-length: 35
+content-length: 36
 
-Product, Technology or Service Name
+Product, Technology or Service Names
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -55,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-09906ad6-3395-4861-a685-098db1d11e5c
+95c771be-73dd-44fe-b721-c8d5c8241115
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150415T180459:635647178997921818Z
+20150415T220815:635647324950685788Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

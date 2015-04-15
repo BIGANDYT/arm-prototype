@@ -1,10 +1,10 @@
 ----item----
 version: 1
-id: {EF1FF9A1-5880-45F5-8F4B-2E0CE9B79583}
+id: {8F9F82C1-405F-4635-BDC5-4C57D9B5F8E7}
 database: master
-path: /sitecore/templates/ARM/BaseTemplates/Content/Taxonomy/Taxonomy/ProductResourceType
+path: /sitecore/templates/ARM/BaseTemplates/Content/Taxonomy/Taxonomy/DeveloperResourceTypes
 parent: {6F8EA2DB-24C0-4D0F-A286-82F8BCFB882C}
-name: ProductResourceType
+name: DeveloperResourceTypes
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
@@ -22,26 +22,26 @@ name: Source
 key: source
 content-length: 98
 
-datasource={375FC297-7FE2-4AD5-8C11-60200E83DCB2}&excludetemplatesforselection=SelectOptionsFolder
+datasource={E02F91A3-770E-4449-8704-A2A4A474FACD}&excludetemplatesforselection=SelectOptionsFolder
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
 content-length: 3
 
-400
+200
 ----version----
 language: en
 version: 1
-revision: f8576704-bf77-4187-99d9-edabb9c44db1
+revision: 8c07fc6b-f7b4-4b0f-9fe5-fa95b7225ea3
 
 ----field----
 field: {19A69332-A23E-4E70-8D16-B2640CB24CC8}
 name: Title
 key: title
-content-length: 21
+content-length: 24
 
-Product Resource Type
+Developer Resource Types
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -55,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f8576704-bf77-4187-99d9-edabb9c44db1
+8c07fc6b-f7b4-4b0f-9fe5-fa95b7225ea3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150415T180459:635647178998151825Z
+20150415T220812:635647324929001541Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -145,6 +145,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\TaxonomyController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Pipelines\Loader\InitializeWebAPIRoutes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -36,6 +36,24 @@
                 routeBase + "products",
                 new { controller = "Product", action = "GetAll" }
             );
+
+            routes.MapHttpRoute(
+                "TaxonomyService-GetCategories",
+                routeBase + "taxonomy/categories",
+                new { controller = "Taxonomy", action = "GetCategories" }
+            );
+
+            routes.MapHttpRoute(
+                "TaxonomyService-GetOptions",
+                routeBase + "taxonomy/categories/{parentID}",
+                new { controller = "Taxonomy", action = "GetOptions" }
+            );
+
+            routes.MapHttpRoute(
+                "TaxonomyService-TagItem",
+                routeBase + "taxonomy/tagItem/{itemID}",
+                new { controller = "Taxonomy", action = "TagItem" }
+            );
         }
 
         protected virtual void MapRoutes(PipelineArgs args, HttpConfiguration config)
