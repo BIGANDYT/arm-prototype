@@ -2,7 +2,7 @@
 version: 1
 id: {307FEB25-057C-48BC-90FC-465D61A83D60}
 database: master
-path: /sitecore/templates/ARM/Carousel/Data/Name
+path: /sitecore/templates/ARM/DataTemplates/Carousel/Data/Name
 parent: {037CD5AA-FDB5-4DF8-AA9A-85A8A73B7998}
 name: Name
 master: {00000000-0000-0000-0000-000000000000}

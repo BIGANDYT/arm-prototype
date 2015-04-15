@@ -2,7 +2,7 @@
 version: 1
 id: {17D579BE-393F-430C-9C1D-2E8A542A22B5}
 database: master
-path: /sitecore/templates/ARM/Carousel/Data/Image3
+path: /sitecore/templates/ARM/DataTemplates/Carousel/Data/Image3
 parent: {037CD5AA-FDB5-4DF8-AA9A-85A8A73B7998}
 name: Image3
 master: {00000000-0000-0000-0000-000000000000}

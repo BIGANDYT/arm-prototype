@@ -2,7 +2,7 @@
 version: 1
 id: {F7F6C82F-3577-48CA-BCF4-6E2C74E77DC7}
 database: master
-path: /sitecore/templates/ARM/Carousel/Data/Interval
+path: /sitecore/templates/ARM/DataTemplates/Carousel/Data/Interval
 parent: {037CD5AA-FDB5-4DF8-AA9A-85A8A73B7998}
 name: Interval
 master: {00000000-0000-0000-0000-000000000000}
