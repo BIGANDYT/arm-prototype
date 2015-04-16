@@ -151,6 +151,7 @@
     <Content Include="Assets\foundation\js\vendor\jquery.js" />
     <Content Include="Assets\foundation\js\vendor\modernizr.js" />
     <Content Include="Assets\foundation\js\vendor\placeholder.js" />
+    <Content Include="Assets\img\logo.svg" />
     <Content Include="Assets\jquery-placeholder\jquery.placeholder.js" />
     <Content Include="Assets\jquery.cookie\jquery.cookie.js" />
     <Content Include="Assets\jquery\dist\jquery.js" />
