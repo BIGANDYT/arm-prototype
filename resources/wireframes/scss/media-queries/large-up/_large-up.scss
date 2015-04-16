@@ -1,0 +1,51 @@
+@media #{$large-up} {
+
+
+.sticky {
+  border-bottom: 2px solid;
+}
+
+// // .top-bar-section ul li > a {
+
+
+
+// // 		 	&:after {
+// // 		 	position: relative;
+// // 		 	height: 2px;
+// //     		display: block;
+// //     		width: 100%;
+// //     		background: $arm-blue;
+// //     		content: "";
+// // 			}
+// // 	}
+
+
+
+// // a.thing {
+// // 	&:after {
+// // 		 	position: relative;
+// // 		 	height: 2px;
+// //     		display: block;
+// //     		width: 100%;
+// //     		background: $arm-blue;
+// //     		content: "";
+// // 			}
+// // }
+
+
+
+.center-me {
+ 	max-width: 400px;
+ 	// float: none!important;
+
+}
+
+.new-thing {
+
+	.button.expand {
+	max-width:77px;
+	}
+
+}
+
+}

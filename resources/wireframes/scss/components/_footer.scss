@@ -1,0 +1,102 @@
+.zurb-footer-top {
+	background-color:$arm-pastel-green;
+
+	p {
+	color:$arm-grey;
+	}
+
+	p a, li a {			
+	color:$arm-grey;
+	font-size:0.9em;
+
+
+				&:hover {
+				text-decoration-color:white;
+				text-decoration: underline;
+				}
+
+	}
+	
+	li a {
+	color:$arm-grey;
+	}
+
+	h3 a {
+	color:$arm-grey;
+	@extend.trans;
+
+		 	&:after {
+		 	position:relative;
+			top:0.1em;	
+		 	@extend.trans;
+		 	height: 2px;
+    		display: block;
+    		width: 60%;
+    		background: $arm-grey;    		
+    		content: "";
+			}
+	}
+
+
+h3 a.products {
+
+		 	&:after {
+    		width: 70%;
+			}
+	}
+
+
+
+h3 a:hover {
+@extend.trans;
+color:$arm-grey;
+			
+		 	&:after {
+	 		@extend.trans;
+		 	height: 2px;
+    		display: block;
+    		width: 100%;
+    		background: white;
+    		content: "";
+			}
+	}
+
+}
+
+
+.zurb-footer-bottom {
+background-color:$arm-grey;
+
+	p {
+		color:white;
+		font-size:0.9em;
+
+			a {
+			color:white;
+			}
+	}
+
+	li a {
+		color:white;
+		font-size:0.9em;
+	}
+
+	h3 a {
+		color:white;
+		font-size:0.9em!important;
+
+			@extend.trans;
+
+		 	&:after {
+		 	position:relative;
+			top:0.1em;	
+		 	@extend.trans;
+		 	height: 2px;
+    		display: block;
+    		width: 60%;
+    		background: white;    		
+    		content: "";
+			}
+	
+	}
+}

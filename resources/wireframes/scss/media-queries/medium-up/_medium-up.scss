@@ -1,0 +1,25 @@
+@media #{$medium-up} {
+
+.center-me {
+ 	margin: 0 auto !important;
+ 	display: block!important;
+ 	float: left!important;
+ 	width: 100%!important;
+}
+
+.new-thing {
+	margin: 0 auto!important;
+	float: none!important;
+}
+
+}
+
+
+.new-thing {
+
+	.button.expand {
+	height:29px;
+	line-height:1.0.5em;
+	}
+
+}
