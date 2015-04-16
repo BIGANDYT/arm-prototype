@@ -1,32 +1,25 @@
 ----item----
 version: 1
-id: {833F4EAD-6D45-42D0-8482-7F7A92975E9B}
+id: {359032DD-07AB-4454-88D5-9E17059A14A3}
 database: master
-path: /sitecore/templates/ARM/DataTemplates/MySqlProductData/Product/Price
-parent: {0C035099-D0D6-43C6-8B0D-17FA98910D75}
-name: Price
+path: /sitecore/layout/Renderings/ARM/row_4_8
+parent: {36FF5898-48AE-4240-8B12-B025958E88D2}
+name: row_4_8
 master: {00000000-0000-0000-0000-000000000000}
-template: {455A3E98-A627-4B40-8035-E683A0331AC7}
-templatekey: Template field
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
 
 ----field----
-field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
-name: Type
-key: type
-content-length: 16
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 39
 
-Single-Line Text
-----field----
-field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
-name: __Sortorder
-key: __sortorder
-content-length: 3
-
-700
+/Views/Components/Global/row_4_8.cshtml
 ----version----
 language: en
 version: 1
-revision: 4c952068-9758-4582-bda3-3f9417cba08c
+revision: 5db41d85-fad5-4bfb-8f8d-e35353a193fe
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -34,21 +27,21 @@ name: __Created
 key: __created
 content-length: 16
 
-20150415T131535Z
+20150416T104319Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-4c952068-9758-4582-bda3-3f9417cba08c
+5db41d85-fad5-4bfb-8f8d-e35353a193fe
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150416T102052:635647764524116233Z
+20150416T104319:635647777994549703Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
