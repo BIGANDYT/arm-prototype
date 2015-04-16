@@ -1,20 +1,7 @@
-﻿<Project>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
   <PropertyGroup>
     <Site Server="sitecore" UserName="sitecore\admin" IsRemoteSitecore="True" />
   </PropertyGroup>
-  <File Include="Views\Shared\Default.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{FF4FED48-2C56-4AC1-97AF-C9B8DDCD0366}</Item>
-  </File>
-  <File Include="/Views/Shared/Default.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{FF4FED48-2C56-4AC1-97AF-C9B8DDCD0366}</Item>
-  </File>
-  <File Include="/Views/Components/Global/Carousel.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{F374DF9A-778D-458F-B6BB-D62C7BF83B3D}</Item>
-  </File>
-  <File Include="Views\Components\Global\Carousel.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{E6053481-44AF-44A1-8D1B-013648F2497F}</Item>
-  </File>
-  <File Include="/Views/Shared/Nick.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{A91B708C-B5A1-4F14-9103-9B224B5630AC}</Item>
-  </File>
+  <ItemGroup />
 </Project>
