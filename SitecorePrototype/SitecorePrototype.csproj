@@ -399,8 +399,6 @@
     <Content Include="App_Config\Include\zArm\SitecoreWebApi.config" />
     <Content Include="App_Config\Include\zArm\ContentSearch.config" />
     <Content Include="App_Config\Include\MySqlDataProvider.config" />
-    <Content Include="App_Config\Include\Sites.config" />
-    <Content Include="App_Config\Include\SitecoreWebApi.config" />
     <Content Include="Assets\foundation\.bower.json" />
     <Content Include="Assets\foundation\bower.json" />
     <Content Include="Assets\foundation\css\foundation.css.map" />
