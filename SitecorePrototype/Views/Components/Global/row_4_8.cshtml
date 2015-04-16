@@ -1,0 +1,13 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+<div class="row">
+    <!--start containing row-->
+    <div class="large-4 spacing-3 columns">
+        @Html.Sitecore().Placeholder("left")
+    </div>
+    <!-- end inside row-->
+    <div class="large-8 spacing-3 columns end">
+        @Html.Sitecore().Placeholder("right")
+    </div>
+</div>

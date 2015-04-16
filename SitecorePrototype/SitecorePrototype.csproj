@@ -476,6 +476,10 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\Components\ARM\TwoLargeTeasersWithImage.cshtml" />
     <Content Include="Views\Components\ARM\FourStandardTeasersWithImage.cshtml" />
+    <Content Include="Views\Components\Global\row_4_8.cshtml" />
+    <Content Include="Views\Components\ARM\SearchFacets.cshtml" />
+    <Content Include="Views\Components\ARM\SearchListings.cshtml" />
+    <Content Include="Views\Components\ARM\Component2.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

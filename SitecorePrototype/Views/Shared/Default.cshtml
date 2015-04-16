@@ -69,41 +69,6 @@
 
     @Html.Sitecore().Placeholder("content")
 
-    <!--1 start white section-->
-    <div class="row">
-        <!--start containing row-->
-        <div class="large-6 spacing-3 columns">
-            <!--start first 6 col -->
-            <!--start containing row-->
-            <div class="row">
-                <div class="large-6 columns">
-                    <img class="left" src="http://placehold.it/350x250">
-                </div>
-                <div class="large-6 columns">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi voluptatem et magni voluptate eaque,
-                    </p>
-                </div>
-            </div>
-        </div>
-        <!-- end inside row-->
-        <div class="large-6 spacing-3 columns">
-
-            <div class="row">
-                <div class="large-6 columns">
-                    <img class="left" src="http://placehold.it/350x250">
-                </div>
-                <div class="large-6 columns">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi voluptatem et magni voluptate eaque,
-                    </p>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
     <!--Start Footer -->
     <div class="zurb-footer-top spacing-3">
         <div class="row property">
@@ -211,13 +176,14 @@
         </div>
     </div>
     <!-- End bottom grey footer -->
-    </div>
 
     <div class="zurb-footer-bottom">
         <div class="row">
             <div class="large-4 spacing-3 columns">
 
-                <h3><a href="#">ARM.com</a></h3>
+                <h3>
+                    <a href="#">ARM.com</a>
+                </h3>
                 <ul class="no-bullet">
                     <li><a href="http://zurb.com/about">Company Profile</a></li>
                     <li><a href="http://zurb.com/blog">Markets</a></li>
@@ -230,7 +196,9 @@
             </div>
             <div class="large-4 spacing-3 large-offset-1 columns">
 
-                <h3><a>++</a></h3>
+                <h3>
+                    <a>++</a>
+                </h3>
                 <ul class="no-bullet ">
                     <li><a href="">Support & Programs</a></li>
                     <li><a href="">Arm Connected Community</a></li>
@@ -246,7 +214,9 @@
             <div class="large-3 spacing-3 columns">
 
 
-                <h3><a>Community</a></h3>
+                <h3>
+                    <a>Community</a>
+                </h3>
 
                 <ul class="no-bullet ">
                     <li><a href="">Arm Connected Community</a></li>
@@ -268,13 +238,15 @@
 
             <div class="large-11 spacing-3 columns">
                 <p class="">Contact | Terms and Conditons | Privacy Policy | Cookies | Full Site map © ARM All rights reserved. 2015</p>
-
-
             </div>
         </div>
+    </div>
 
-        <script src="~/Assets/jquery/dist/jquery.min.js"></script>
-        <script src="~Assets/foundation/js/foundation.min.js"></script>
-        <script src="~/Assets/js/app.js"></script>
+<script src="~/Assets/jquery/dist/jquery.min.js"></script>
+<script>
+    var jQuery2 = jQuery.noConflict();
+</script>
+    <script src="~/Assets/foundation/js/foundation.min.js"></script>
+    <script src="~/Assets/js/app.js"></script>
 </body>
 </html>

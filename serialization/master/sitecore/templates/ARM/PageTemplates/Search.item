@@ -1,25 +1,39 @@
 ----item----
 version: 1
-id: {040EDD73-9F5D-4920-B3DE-2CE87BAB6448}
+id: {B4F059BE-267F-426F-883F-80FBA906389F}
 database: master
-path: /sitecore/content/Home/Products
-parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: Products
+path: /sitecore/templates/ARM/PageTemplates/Search
+parent: {0828C79B-E30B-4B2A-A706-45CDD1BEF870}
+name: Search
 master: {00000000-0000-0000-0000-000000000000}
-template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
-templatekey: Folder
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
 
 ----field----
-field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
-name: __Masters
-key: __masters
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
 content-length: 38
 
-{E44BFA42-6733-4987-83D2-CCF98C0321E7}
+{99A1374E-2369-4732-BDF7-4BFC8CF6F0FA}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 27
+
+Applications/32x32/view.png
 ----version----
 language: en
 version: 1
-revision: 469a75e2-2760-482b-834c-0e985506657d
+revision: 14eb26ae-2f54-41eb-8574-7bb0955f5b0d
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,7 +41,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150415T102047Z
+20150416T102546Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-469a75e2-2760-482b-834c-0e985506657d
+14eb26ae-2f54-41eb-8574-7bb0955f5b0d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150415T102154:635646901149031915Z
+20150416T104114:635647776745370219Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
