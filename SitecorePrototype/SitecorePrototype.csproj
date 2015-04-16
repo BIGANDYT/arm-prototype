@@ -473,6 +473,7 @@
     <Content Include="Views\Components\Global\Carousel.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Components\ARM\TwoLargeTeasersWithImage.cshtml" />
+    <Content Include="Views\Components\ARM\FourStandardTeasersWithImage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
