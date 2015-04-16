@@ -16,10 +16,17 @@ key: autoplay
 content-length: 1
 
 1
+----field----
+field: {F7F6C82F-3577-48CA-BCF4-6E2C74E77DC7}
+name: Interval
+key: interval
+content-length: 1
+
+9
 ----version----
 language: en
 version: 1
-revision: 5bec0137-bf5b-4540-b9ca-9452a1784446
+revision: 581655d8-aff9-43eb-9823-a9439af48825
 
 ----field----
 field: {307FEB25-057C-48BC-90FC-465D61A83D60}
@@ -62,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5bec0137-bf5b-4540-b9ca-9452a1784446
+581655d8-aff9-43eb-9823-a9439af48825
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150414T153611:635646225710278410Z
+20150416T093307:635647735873063352Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

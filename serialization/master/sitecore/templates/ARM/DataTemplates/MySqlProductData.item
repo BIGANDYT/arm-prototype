@@ -1,18 +1,32 @@
 ----item----
 version: 1
-id: {037CD5AA-FDB5-4DF8-AA9A-85A8A73B7998}
+id: {23A03F1B-E484-4122-A831-46259FB778DE}
 database: master
-path: /sitecore/templates/ARM/DataTemplates/Carousel/Data
-parent: {5E5FA71D-28E3-436C-B651-284021677B4D}
-name: Data
+path: /sitecore/templates/ARM/DataTemplates/MySqlProductData
+parent: {6047F97E-7E9D-460A-9841-95AC7C89D74C}
+name: MySqlProductData
 master: {00000000-0000-0000-0000-000000000000}
-template: {E269FBB5-3750-427A-9149-7AA950B49301}
-templatekey: Template section
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
 
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{1930BBEB-7805-471A-A3BE-4858AC7CF696}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{FE8B0987-B67B-4CD0-950E-FED36EB672A0}
 ----version----
 language: en
 version: 1
-revision: 5fb26976-d437-4bae-af00-65cd89c73bbc
+revision: 7b2ebb54-a138-474a-948a-e98cd3c086fd
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +34,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150414T152819Z
+20150415T131238Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5fb26976-d437-4bae-af00-65cd89c73bbc
+7b2ebb54-a138-474a-948a-e98cd3c086fd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 35
 
-20150416T091514:635647725145026155Z
+20150416T080130:635647680906189675Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -1,58 +1,58 @@
 ----item----
 version: 1
-id: {4EA34091-8AA4-4FA2-82B2-D6E90083A9C9}
+id: {413995C2-A001-4F63-B929-6B70C8E97932}
 database: master
-path: /sitecore/templates/ARM/DataTemplates/TwitterWidget
-parent: {6047F97E-7E9D-460A-9841-95AC7C89D74C}
-name: TwitterWidget
+path: /sitecore/templates/ARM/DataTemplates/MySqlProductData/Product/Stock
+parent: {0C035099-D0D6-43C6-8B0D-17FA98910D75}
+name: Stock
 master: {00000000-0000-0000-0000-000000000000}
-template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
-templatekey: Template
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
 
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 16
+
+Single-Line Text
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
-content-length: 4
+content-length: 3
 
-1900
+600
 ----version----
 language: en
 version: 1
-revision: a111bf29-cd87-4290-819d-d194c24c9cd7
+revision: 2a0148ee-563c-4124-b6ca-ecf27c5c4ebb
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20131115T111412
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 14
-
-sitecore\steve
+20150415T131535Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-a111bf29-cd87-4290-819d-d194c24c9cd7
+2a0148ee-563c-4124-b6ca-ecf27c5c4ebb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 35
 
-20140402T103617:635320317776269365
+20150416T093802:635647738821766568Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin

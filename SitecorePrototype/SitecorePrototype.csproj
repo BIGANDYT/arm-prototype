@@ -130,6 +130,7 @@
     <Content Include="App_Config\Include\zArm\Sites.config" />
     <Content Include="App_Config\Include\zArm\SitecoreWebApi.config" />
     <Content Include="App_Config\Include\zArm\ContentSearch.config" />
+    <Content Include="App_Config\Include\MySqlDataProvider.config" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <Content Include="Views\Shared\Default.cshtml" />
     <Content Include="Views\Components\Global\Carousel.cshtml" />
